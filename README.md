@@ -12,3 +12,11 @@ Langkah-langkah yang diperlukan untuk menginstal aplikasi Anda, termasuk bagaima
 
 ```bash
 git clone https://github.com/yudhakr/Brata-Bioskop.git
+
+Cara Menjalankan
+Instruksi tentang cara menjalankan aplikasi di perangkat Anda. Ini mungkin mencakup langkah-langkah seperti:
+
+- Buka proyek di Android Studio.
+- Sambungkan perangkat Android Anda ke komputer.
+- Atur konfigurasi pengembangan USB pada perangkat.
+- Jalankan aplikasi dengan mengklik tombol "Run" di Android Studio.
