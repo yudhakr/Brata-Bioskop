@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Bioskop Brata</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+    <string name="title_top">Top fragment</string>
+    <string-array name="horror">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+    <string-array name="adventure">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+    <string-array name="sciFi">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string name="home_tab">Home</string>
+    <string name="horror_tab">Horror</string>
+    <string name="adventure_tab">Adventure</string>
+    <string name="scifi_tab">Sci-Fi</string>
+    <string name="hello_blank_fragment">blank Frag</string>
+
+    <string name="company_name">Bioskop XXX</string>
+    <string name="restaurant_image">Bioskop image</string>
+
+    <string name="order_name_hint">Please enter film title </string>
+    <string name="order_details_hint">Please enter date order</string>
+</resources>
